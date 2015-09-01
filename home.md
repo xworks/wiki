@@ -7,4 +7,3 @@ public void main(String arg) {
 }
 ```
 
-[Android](Android)
